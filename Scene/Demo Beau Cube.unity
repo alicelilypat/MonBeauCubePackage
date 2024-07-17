@@ -209,7 +209,7 @@ Transform:
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
   m_LocalRotation: {x: 0.14774165, y: -0.23345612, z: 0.03591311, w: 0.96040666}
-  m_LocalPosition: {x: 1.28, y: 1.31, z: -3.69}
+  m_LocalPosition: {x: 3.59, y: 2.9, z: -8.17}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -390,10 +390,15 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cube Alice
       objectReference: {fileID: 0}
+    - target: {fileID: 1251412215037026172, guid: f7461782037156b438fbc0af8baa3a7c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2536616799785299029, guid: f7461782037156b438fbc0af8baa3a7c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 5.04
       objectReference: {fileID: 0}
     - target: {fileID: 2536616799785299029, guid: f7461782037156b438fbc0af8baa3a7c,
         type: 3}
